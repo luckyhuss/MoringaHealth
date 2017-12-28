@@ -2,7 +2,7 @@
 <html>
 
 <head>
-  <title>Moringa - The Miracle Plant</title>
+  <title>Moringa - Publications / Multimedia</title>
   <meta name="keywords" content="" />
   <meta name="description" content="" />
   <!-- 
@@ -39,6 +39,15 @@
 * Visit Dynamic Drive at http://www.dynamicdrive.com/ for full source code
 ***********************************************/
 -->
+  <!-- jQuery (necessary for Bootstrap's JavaScript plugins) -->
+  <!-- <script src="https://code.jquery.com/jquery.js"></script> -->
+  <script src="js/jquery-1.10.2.min.js"></script>
+  <script src="js/bootstrap.min.js"></script>
+  <script src="js/jquery.cycle2.min.js"></script>
+  <script src="js/jquery.cycle2.carousel.min.js"></script>
+  <script src="js/jquery.nivo.slider.pack.js"></script>
+  <script src="js/jquery.min.js"></script>
+
   <script type="text/javascript">
     ddsmoothmenu.init({
       mainmenuid: "templatemo_flicker", //menu DIV id
@@ -46,52 +55,13 @@
       classname: 'ddsmoothmenu', //class added to menu's outer DIV
       //customtheme: ["#1c5a80", "#18374a"],
       contentsource: "markup" //"markup" or ["container_id", "path_to_menu_file"]
-    })
+    });   
   </script>
 </head>
 
 <body>
-  <header>
-    <!-- start menu -->
-    <div class="clear"></div>
-    <div id="templatemo_home">
-      <div class="templatemo_top">
-        <div class="container templatemo_container">
-          <div class="row">
-            <div class="col-xs-2 nopadding">
-              <div class="logo">
-                <a href="#">
-                  <img src="images/templatemo_logo.jpg" alt="moringa for health">
-                </a>
-              </div>
-            </div>
-            <div class="col-xs-9 nopadding">
-              <div id="top-menu">
-                <nav class="mainMenu">
-                  <ul class="nav">
-                    <li><a class="" href="index.html">Home</a></li>                    
-                    <li><a class="" href="whymoringa.html">Why Moringa ?</a></li>
-                    <li><a class="" href="media.html">Media</a></li>
-                    <li><a class="" href="events.html">Events</a></li>
-                    <li><a class="" href="links.html">Links</a></li>
-                    <li><a class="" href="aboutus.html">About</a></li>
-                    <li><a class="" href="contact.php">Contact</a></li>
-                  </ul>
-                </nav>
-              </div>
-            </div>
-            <div class="col-xs-1 nopadding">
-              <div class="logo">
-                <img src="images/logo_right_menu.jpg" alt="moringa for health">
-              </div>
-            </div>
-          </div>
-        </div>
-      </div>
-    </div>
-    <div class="clear"></div>
-    <!-- end menu -->
-  </header>
+  <?php include('header.php'); ?>
+  
   <div class="templatemo_lightgrey_about" id="templatemo_about">
     <div class="container">
       <div class="templatemo_content_box">
@@ -187,13 +157,7 @@
   </div>
   <!-- Bottom End -->
 
-  <!-- jQuery (necessary for Bootstrap's JavaScript plugins) -->
-  <!-- <script src="https://code.jquery.com/jquery.js"></script> -->
-  <script src="js/jquery-1.10.2.min.js"></script>
-  <script src="js/bootstrap.min.js"></script>
-  <script src="js/jquery.cycle2.min.js"></script>
-  <script src="js/jquery.cycle2.carousel.min.js"></script>
-  <script src="js/jquery.nivo.slider.pack.js"></script>
+  
   <script>$.fn.cycle.defaults.autoSelector = '.slideshow';</script>
   <script type="text/javascript">
     $(function () {

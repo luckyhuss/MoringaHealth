@@ -4,7 +4,7 @@
 
   <head>
 
-    <title>Moringa - The Miracle Plant</title>
+    <title>V Kanhye Health Foods - Home</title>
 
     <meta name="keywords" content="" />
 

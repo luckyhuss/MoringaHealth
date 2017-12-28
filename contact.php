@@ -3,7 +3,7 @@
 <!DOCTYPE html>
 <html>
   <head>
-    <title>Moringa - The Miracle Plant</title>
+    <title>V Kanhye Health Foods - Contact us</title>
     <meta name="keywords" content="" />
 	<meta name="description" content="" />
     <!-- 
@@ -59,51 +59,8 @@ ddsmoothmenu.init({
 
   </head>
   <body>
- <header>
-    <!-- start menu -->
-    <div class="clear"></div>
-    <div id="templatemo_home">
-      <div class="templatemo_top">
-      <div class="container templatemo_container">
-        <div class="row">
-
-          <div class="col-sm-3 col-md-3">
-            <div class="logo">
-              <a href="#"><img src="images/templatemo_logo.jpg" alt="moringa for health"></a>
-            </div>
-          </div>
-
-          <div class="col-sm-9 col-md-6 templatemo_col9">
-            <div id="top-menu">
-            <nav class="mainMenu">
-              <ul class="nav">
-               <li><a class="menu" href="index.html">Home</a></li>
-                <li><a class=" " href="aboutus.html ">About</a></li>
-                <li><a class=" " href="whymoringa.html ">Why Moringa</a></li>
-                <li><a class=" " href="contact.php ">Contact</a></li>
-              </ul>
-            </nav>
-            </div>
-          </div>
-
-          <div class="col-sm-3 col-md-3">
-            <div class="logo1">
-              <a href="#"><img src="images/templatemo_logo1.jpg" alt="moringa for health" ></a>
-            </div>
-          </div>
-
-        </div>
-      </div>
-    </div>
-    </div>
-
-    <div class="clear"></div>
-    <!-- end menu -->
-
-      
-             
-  </header>
-
+ 
+  <?php include('header.php'); ?>
 
      <div class="clear "></div>
     <!--Our Client End-->
@@ -193,51 +150,9 @@ if(isset($_POST['submit'])){
         </div>
   </div>
     
- <!--Footer Start-->
-    <div class="templatemo_footer">
-      <div class="container">
-          <div class="col-xs-6 col-sm-6 col-md-6 templatemo_col12">
-              <h2>About </h2>
-                <p style="font-size: 1em;">VKHF is the pioneer of Moringa Infusion in Mauritius and is one of the few vertically integrated organisations of the world, that grow their own Moringa plants and also manufacture products from them.</p>
+  <?php include('footer.php'); ?>   
 
-<p style="font-size: 1em;">VKHF plantations are 100% Bio and they do not use any Fertilisers, Pesticides or other chemicals. They also employ a specialised manufacturing process to retain all the nutrients of the leaves intact.
-</p>
-          </div>
-            
-            <div class="col-xs-6 col-sm-6 col-md-6 templatemo_col12 footer1">
-            <h2>Contact</h2>
-              <span class="left col-xs-1 fa fa-map-marker"></span>
-                <span class="right col-xs-11">Melle Jeanne Goodlands, Mauritius</span>
-                <div class="clear height20"></div>
-                <span class="left col-xs-1 fa fa-phone"></span>
-                <span class="right col-xs-11">+230 5 888 69 67 / +230 5 937 02 39</span>
-                <div class="clear height20"></div>
-                <span class="left col-xs-1 fa fa-envelope"></span>
-                <span class="right col-xs-11">sales@moringahealth.mu</span>
-                <div class="clear height20"></div>
-               
-               
-                <div class="clear"></div>
-            </div>
-        </div>
-    </div>
-   <!--Footer End-->
-  <!-- Bottom Start -->
-    <div class="templatemo_bottom">
-      <div class="container">
-          <div class="row">
-              <div class="left">
-                  Copyright © 2017 <a href="#">Kanhye Health Foods Co. Ltd</a>
-                </div>
-                <div class="right">
-                    <a href="#"><div class="fa fa-twitter soc"></div></a>
-                    <a href="#"><div class="fa fa-linkedin soc"></div></a>
-                    <a href="#"><div class="fa fa-facebook soc"></div></a>
-                </div>
-            </div>
-        </div>
-    </div>
-    <!-- Bottom End -->
+
     <!-- jQuery (necessary for Bootstrap's JavaScript plugins) -->
     <!-- <script src="https://code.jquery.com/jquery.js"></script> -->
     <script src="js/jquery-1.10.2.min.js"></script>

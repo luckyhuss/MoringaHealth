@@ -17,8 +17,8 @@
                   <li><a class="" href="/">Home</a></li>                    
                   <li><a class="" href="whymoringa.php">Why Moringa ?</a></li>
                   <li><a class="" href="media.php">Media</a></li>
-                  <li><a class="" href="events.html">Events</a></li>
-                  <li><a class="" href="links.html">Links</a></li>
+                  <li><a class="" href="events.php">Events</a></li>
+                  <li><a class="" href="links.php">Links</a></li>
                   <li><a class="" href="aboutus.php">About</a></li>
                   <li><a class="" href="contact.php">Contact</a></li>
                 </ul>

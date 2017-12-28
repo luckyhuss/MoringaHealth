@@ -4,7 +4,7 @@
 
   <head>
 
-    <title>Moringa - The Miracle Plant</title>
+    <title>V Kanhye Health Foods - Why Moringa ?</title>
 
     <meta name="keywords" content="" />
 
@@ -224,7 +224,7 @@ ddsmoothmenu.init({
     </div>
 
     </div>
-    
+
     <br />
 
     <?php include('footer.php'); ?>

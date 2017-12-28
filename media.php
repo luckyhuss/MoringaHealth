@@ -60,8 +60,9 @@
 </head>
 
 <body>
-  <?php include('header.php'); ?>
   
+  <?php include('header.php'); ?>
+
   <div class="templatemo_lightgrey_about" id="templatemo_about">
     <div class="container">
       <div class="templatemo_content_box">
@@ -130,33 +131,7 @@
     </div>
   </div>
 
-  <!--Footer Start-->
-  <!--Footer End-->
-
-  <!-- Bottom Start -->
-  <div class="templatemo_bottom">
-    <div class="container">
-      <div class="row">
-        <div class="left">
-          Copyright © 2017
-          <a href="#">Kanhye Health Foods Co. Ltd</a>
-        </div>
-        <div class="right">
-          <a href="#">
-            <div class="fa fa-twitter soc"></div>
-          </a>
-          <a href="#">
-            <div class="fa fa-linkedin soc"></div>
-          </a>
-          <a href="#">
-            <div class="fa fa-facebook soc"></div>
-          </a>
-        </div>
-      </div>
-    </div>
-  </div>
-  <!-- Bottom End -->
-
+  <?php include('footer.php'); ?>
   
   <script>$.fn.cycle.defaults.autoSelector = '.slideshow';</script>
   <script type="text/javascript">

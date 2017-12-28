@@ -14,7 +14,7 @@
             <div id="top-menu">
               <nav class="mainMenu">
                 <ul class="nav">
-                  <li><a class="" href="index.html">Home</a></li>                    
+                  <li><a class="" href="index.php">Home</a></li>                    
                   <li><a class="" href="whymoringa.html">Why Moringa ?</a></li>
                   <li><a class="" href="media.php">Media</a></li>
                   <li><a class="" href="events.html">Events</a></li>

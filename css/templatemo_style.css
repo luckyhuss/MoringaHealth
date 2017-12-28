@@ -53,14 +53,7 @@ p {
 }
 
 .modal {
-	position: absolute;
-	top: 450px;
-	right: 100px;
-	bottom: 0;
-	left: 0;
-	z-index: 10040;
-	overflow: auto;
-	overflow-y: auto;
+	z-index: 9999;
  }
 
 .height10 { height: 10px; }
@@ -623,7 +616,7 @@ img {
 
 	width: 100%;
 
-	background: #336633;
+	background: #ffffff;
 
 	padding: 80px 0px;
 

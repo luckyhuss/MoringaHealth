@@ -66,11 +66,11 @@
   <div class="templatemo_lightgrey_about" id="templatemo_about">
     <div class="container">
       <div class="templatemo_content_box">
-        <!-- Pamphlets -->
+        <!-- Related links -->
         <div class="panel-group" style="width: 90%">
           <div class="panel panel-default">
             <div class="panel-heading">
-              <h4 class="panel-title"><a data-toggle="collapse" href="#collapse1" style="font-weight:bold">Pamphlets</a></h4>
+              <h4 class="panel-title"><a data-toggle="collapse" href="#collapse1" style="font-weight:bold">Related links</a></h4>
             </div>
             <div id="collapse1" class="panel-collapse collapse in">
               <div class="panel-body" style="padding-left: 5%">
@@ -85,7 +85,6 @@
         </div>
         <br />
       </div>
-      <br />
     </div>
   </div>
 

@@ -84,7 +84,7 @@
                 <p>The main objective of the Award was to encourage SMEs to adopt innovative approaches and practices leading to business transformation, 
                   new markets, productivity improvement and increased investment.</p>
                 <p class="center">
-                  <img src="images/events/sme17.png" class="image80" title="SME Innovation Award 2017">
+                  <img src="images/events/sme17.png" class="image80 img-circle" title="SME Innovation Award 2017">
                 </p>
               </div>
             </div>
@@ -102,10 +102,10 @@
                 <p>Several requests for factory visits are obtained from students, senior citizens, socio-cultural groups as well as tourists.</p>
                 <p style="color: green;"><b><i>Factory visit is free and visitors benefit from purchase of moringa products at factory price.</i></b></p>
                 <p class="center">
-                  <img src="images/events/factory1.png" class="image80" title="Factory Visits 1">
+                  <img src="images/events/factory1.png" class="image80 img-rounded" title="Factory Visits 1">
                 </p>
                 <p class="center">
-                  <img src="images/events/factory2.png" class="image80" title="Factory Visits 2">
+                  <img src="images/events/factory2.png" class="image80 img-rounded" title="Factory Visits 2">
                 </p>
               </div>
             </div>

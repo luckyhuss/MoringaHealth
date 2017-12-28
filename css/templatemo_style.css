@@ -166,9 +166,13 @@ img {
 
 }
 
+.nopadding {
+	padding: 0 !important;
+	margin: 0 !important;
+ }
+
+
 .mainMenu {
-
-
 
 }
 
@@ -195,27 +199,19 @@ img {
 .mainMenu li a {
 
 	display: block;
-
-	text-transform: uppercase;
-
+	/*text-transform: uppercase;*/
 	color: #939393;
 
 }
 
-
-
 #top-menu {
-
     background: white;
-
 }
 
-#top-menu ul { float: right;
-
-padding-right: 60px;
-
-
-
+#top-menu ul { 
+	
+	float: left;
+	padding-left: 50px;
 }
 
 #top-menu li {
@@ -1224,8 +1220,8 @@ and (max-width : 480px) {
 
 	}
 
-	#top-menu li a {		
-
+	#top-menu li a {
+		
 		font-size: 8px;
 
 	}

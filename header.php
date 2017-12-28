@@ -7,7 +7,7 @@
         <div class="row">
           <div class="col-xs-2 nopadding">
             <div class="logo">
-                <img src="images/templatemo_logo.jpg" alt="moringa for health">
+                <img src="images/templatemo_logo.jpg" title="Moringa for health">
             </div>
           </div>
           <div class="col-xs-8 nopadding">
@@ -27,7 +27,7 @@
           </div>
           <div class="col-xs-1 nopadding">
             <div class="logo">
-              <img src="images/logo_right_menu.jpg" alt="moringa for health">
+              <img src="images/logo_right_menu.jpg" title="Moringa for health">
             </div>
           </div>
         </div>

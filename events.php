@@ -2,7 +2,7 @@
 <html>
 
 <head>
-  <title>V Kanhye Health Foods - Publications / Multimedia</title>
+  <title>VKanhye Health Foods - News / Events / Outreach</title>
   <meta name="keywords" content="" />
   <meta name="description" content="" />
   <!-- 
@@ -66,24 +66,66 @@
   <div class="templatemo_lightgrey_about" id="templatemo_about">
     <div class="container">
       <div class="templatemo_content_box">
-        <!-- Pamphlets -->
+        <!-- SME Innovation Award 2017 -->
         <div class="panel-group" style="width: 90%">
           <div class="panel panel-default">
             <div class="panel-heading">
-              <h4 class="panel-title"><a data-toggle="collapse" href="#collapse1" style="font-weight:bold">Pamphlets</a></h4>
+              <h4 class="panel-title"><a data-toggle="collapse" href="#collapse1" style="font-weight:bold">SME Innovation Award 2017</a></h4>
             </div>
             <div id="collapse1" class="panel-collapse collapse in">
-              <div class="panel-body" style="padding-left: 5%">
-                <ul>
-                  <li><a href="resources/pamphlets/moringa_brochure_en.pdf" target="_blank">Moringa brochure (English version)</a></li>
-                  <br />
-                  <li><a href="resources/pamphlets/moringa_brochure_fr.pdf" target="_blank">Brochure Moringa (Version française)</a></li>
-                </ul>
+              <div class="panel-body">
+                <p>VKanhye Health Foods Co. Ltd is the <u>Grand Winner</u> of the <b>SME Innovation Award 2017</b>.</p> 
+                <p>The SME Innovation Award 2017 comprised of two categories namely : <p>
+                  <ul>
+                    <li>Best Product Innovation</li>
+                    <li>Best Process Innovation</li>
+                  </ul>
+                <p>The Grand Winner is the Winner in <i style="color: blue;">both categories</i>.</p>
+                <p>The main objective of the Award was to encourage SMEs to adopt innovative approaches and practices leading to business transformation, 
+                  new markets, productivity improvement and increased investment.</p>
+                <p class="center">
+                  <img src="images/events/sme17.png" class="image80" title="SME Innovation Award 2017">
+                </p>
               </div>
             </div>
           </div>
         </div>
         <br />
+        <!-- Factory Visits -->
+        <div class="panel-group" style="width: 90%">
+          <div class="panel panel-default">
+            <div class="panel-heading">
+              <h4 class="panel-title"><a data-toggle="collapse" href="#collapse2" style="font-weight:bold">Factory Visits</a></h4>
+            </div>
+            <div id="collapse2" class="panel-collapse collapse in">
+              <div class="panel-body">
+                <p>Several requests for factory visits are obtained from students, senior citizens, socio-cultural groups as well as tourists.</p>
+                <p style="color: green;"><b><i>Factory visit is free and visitors benefit from purchase of moringa products at factory price.</i></b></p>
+                <p class="center">
+                  <img src="images/events/factory1.png" class="image80" title="Factory Visits 1">
+                </p>
+                <p class="center">
+                  <img src="images/events/factory2.png" class="image80" title="Factory Visits 2">
+                </p>
+              </div>
+            </div>
+          </div>
+        </div>
+        <br />
+        <!-- Participation in locally organized fairs -->
+        <div class="panel-group" style="width: 90%">
+          <div class="panel panel-default">
+            <div class="panel-heading">
+              <h4 class="panel-title"><a data-toggle="collapse" href="#collapse3" style="font-weight:bold">Participation in locally organized fairs</a></h4>
+            </div>
+            <div id="collapse3" class="panel-collapse collapse in">
+              <div class="panel-body">
+                <p>The company participates in locally organized fairs such as World Food day, Family day, Farmers day, and Salon de la Santé.</p>
+                <p><b><i>The constant awareness and branding has been the major driving force for the organization.</i></b></p>
+              </div>
+            </div>
+          </div>
+        </div>
       </div>
       <br />
     </div>

@@ -10,16 +10,16 @@
                 <img src="images/templatemo_logo.jpg" alt="moringa for health">
             </div>
           </div>
-          <div class="col-xs-9 nopadding">
+          <div class="col-xs-8 nopadding">
             <div id="top-menu">
               <nav class="mainMenu">
                 <ul class="nav">
-                  <li><a class="" href="index.php">Home</a></li>                    
-                  <li><a class="" href="whymoringa.html">Why Moringa ?</a></li>
+                  <li><a class="" href="/">Home</a></li>                    
+                  <li><a class="" href="whymoringa.php">Why Moringa ?</a></li>
                   <li><a class="" href="media.php">Media</a></li>
                   <li><a class="" href="events.html">Events</a></li>
                   <li><a class="" href="links.html">Links</a></li>
-                  <li><a class="" href="aboutus.html">About</a></li>
+                  <li><a class="" href="aboutus.php">About</a></li>
                   <li><a class="" href="contact.php">Contact</a></li>
                 </ul>
               </nav>

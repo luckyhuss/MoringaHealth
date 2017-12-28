@@ -14,7 +14,7 @@
         <a href="https://www.facebook.com/VKanhyeHealthFoods" title="Facebook page" target="_blank">
           <div class="fa fa-facebook soc"></div>
         </a>
-        <a href="#" data-toggle="modal" data-target="#mycontact" title="More details">
+        <a href="javascript:void(0);" data-toggle="modal" data-target="#mycontact" title="More details">
           <div class="fa fa-phone soc"></div>
         </a>
       </div>

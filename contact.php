@@ -44,6 +44,13 @@
 
 -->
 
+<!-- jQuery (necessary for Bootstrap's JavaScript plugins) -->
+  <!-- <script src="https://code.jquery.com/jquery.js"></script> -->
+  <script src="js/jquery-1.10.2.min.js"></script>
+  <script src="js/bootstrap.min.js"></script>
+  <script src="js/jquery.cycle2.min.js"></script>
+  <script src="js/jquery.cycle2.carousel.min.js"></script>
+  <script src="js/jquery.nivo.slider.pack.js"></script>
 
   <script type="text/javascript">
 
@@ -85,6 +92,7 @@
                 </div>
                 <input class="btn btn-success btn-md" type="submit" name="submit" value="&nbsp;&nbsp;&nbsp;Send&nbsp;&nbsp;&nbsp;">
               </form>
+              <div id="msg"></div>
             </div>
 
             <div class="col-xs-1"></div>
@@ -117,26 +125,31 @@
       $last_name = $_POST['last_name'];
       $subject = "Contact from website";
       $subject2 = "Copy of your message sent";
-      $message = $first_name . " " . $last_name . " send this message : " . "\n\n" . $_POST['message'];
-      $message2 = "Here is a copy of your message " . $first_name . "\n\n" . $_POST['message'];
-      
+      $message = $first_name . " " . $last_name . " sent this message : " . "\n\n" . $_POST['message'];
+      $message2 = "Here is a copy of your message " . $first_name . "\n\n" . $_POST['message'];      
       $headers = "From:" . $from;
       $headers2 = "From:" . $to;
-      mail($to,$subject,$message,$headers);
-      mail($from,$subject2,$message2,$headers2); // sends a copy of the message to the sender
-      echo "<p>Mail Sent. Thank you " . $first_name . ", we will contact you shortly.</p>";
-      
-      // You can also use header('Location: thank_you.php'); to redirect to another page.
+
+      if (!empty($first_name) && !empty($last_name)
+            && !empty($from) && !empty($_POST['message'])) {
+        // send 2 emails if form is Ok
+        mail($to,$subject,$message,$headers);
+        mail($from,$subject2,$message2,$headers2); // sends a copy of the message to the sender
+        // success message
+        $message = "Your message has been sent.<br/>Thank you <b style=\'color: green;\'>" . $first_name . "</b>, we will contact you shortly.";
+      } else {
+        // failure message
+        $message = "<b style=\'color: red;\'>Please fill in all the required fields.</b>";
+      }
     }
   ?>
 
-  <!-- jQuery (necessary for Bootstrap's JavaScript plugins) -->
-  <!-- <script src="https://code.jquery.com/jquery.js"></script> -->
-  <script src="js/jquery-1.10.2.min.js"></script>
-  <script src="js/bootstrap.min.js"></script>
-  <script src="js/jquery.cycle2.min.js"></script>
-  <script src="js/jquery.cycle2.carousel.min.js"></script>
-  <script src="js/jquery.nivo.slider.pack.js"></script>
+  <!-- dynamic message feedback -->
+  <script>
+    var str ='<?php echo $message?>';
+    $("#msg").html("<br/><p>" + str + "</p>");
+  </script>
+
   <script>$.fn.cycle.defaults.autoSelector = '.slideshow';</script>
   <script type="text/javascript">
     $(function () {

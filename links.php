@@ -77,7 +77,7 @@
                   <br/>
                   <li><a href="resources/links/mrc_moringa_oleifera.pdf" target="_blank">Mauritius Research Council - Moringa Oleifera</a></li>
                   <br/>
-                  <li><a href="http://www.tfljournal.org/article.php/20051201124931586" target="_blank">John Hopkins University - A Review of the Medical Evidence</a></li>                  
+                  <li><a href="resources/links/nutritional_therapeutic.pdf" target="_blank">John Hopkins University - A Review of the Medical Evidence (J. Fahey)</a></li>                  
                   <br/>
                   <li><a href="https://www.youtube.com/watch?v=bFeUPey9Lls" target="_blank">(Video) Dr. Oz discusses Moringa</a></li>
                   <br/>

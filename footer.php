@@ -5,7 +5,7 @@
       <div class="left">
         Copyright © 2014 - <?php echo date('Y'); ?>&nbsp;&nbsp;&nbsp;
         <a href=".">Kanhye Health Foods Co. Ltd</a>&nbsp;&nbsp;&nbsp;
-        (version 2.04)
+        (version 2.0.4)
       </div>
       <div class="right">
         <a href="https://www.youtube.com/watch?v=rtWfXE6s4Ks" title="Youtube channel" target="_blank">
@@ -34,7 +34,7 @@
       <div class="modal-body">
         <p>Please call on : (+230) 5888 6967 or (+230) 5937 0239</p>        
         <br />
-        <h3><b>About</b> </h3>
+        <h4><b>Brief</b> </h4>
         <p style="font-size: 1em;">VKHF is the pioneer of Moringa Infusion in Mauritius and is one of the few vertically integrated organisations of the world, that grow their own Moringa plants and also manufacture products from them.</p>
         <p style="font-size: 1em;">VKHF plantations are 100% Bio and they do not use any Fertilisers, Pesticides or other chemicals. They also employ a specialised manufacturing process to retain all the nutrients of the leaves intact.</p>
       </div>

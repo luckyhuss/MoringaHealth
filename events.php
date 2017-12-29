@@ -103,7 +103,7 @@
                 <p>Several requests for factory visits are obtained from students, senior citizens, socio-cultural groups as well as tourists.</p>
                 <p style="color: green;"><b><i>Factory visit is free and visitors benefit from purchase of moringa products at factory price.</i></b></p>
                 
-                <div id="myCarousel" class="carousel slide" data-ride="carousel">
+                <div id="myCarousel" class="carousel slide" data-ride="carousel" data-interval="3000">
                   <!-- Indicators -->
                   <ol class="carousel-indicators">
                     <li data-target="#myCarousel" data-slide-to="0" class="active"></li>

@@ -85,7 +85,7 @@
                 <p>The main objective of the Award was to encourage SMEs to adopt innovative approaches and practices leading to business transformation, 
                   new markets, productivity improvement and increased investment.</p>
                 <p class="center">
-                  <img src="images/events/sme17.png" class="image80 img-circle" title="SME Innovation Award 2017">
+                  <img src="images/events/sme17.png" class="image80 img-circle" title="Grand Winner of SME Innovation Award 2017">
                 </p>
               </div>
             </div>

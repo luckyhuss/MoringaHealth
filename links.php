@@ -73,19 +73,21 @@
             <div id="collapse1" class="panel-collapse collapse in">
               <div class="panel-body" style="padding-left: 5%">
                 <ul>
+                  <li><a href="resources/links/science_research_moringa.pdf" target="_blank">Scientific Research - Nutritive importance and medicinal application</a></li>
+                  <br/>
                   <li><a href="resources/links/mrc_moringa_oleifera.pdf" target="_blank">Mauritius Research Council - Moringa Oleifera</a></li>
-                  <br />
-                  <li><a href="http://www.tfljournal.org/article.php/20051201124931586" target="_blank">John Hopkins University - A Review of the Medical Evidence</a></li>
-                  <br />
-                  <li><a href="https://www.youtube.com/watch?v=bFeUPey9Lls" target="_blank">Dr. Oz Discusses Moringa</a></li>
-                  <br />
-                  <li><a href="https://www.youtube.com/watch?v=W8mPP9fynWg" target="_blank">Dr. Howard Fisher : Moringa Benefits Explained </a></li>
+                  <br/>
+                  <li><a href="http://www.tfljournal.org/article.php/20051201124931586" target="_blank">John Hopkins University - A Review of the Medical Evidence</a></li>                  
+                  <br/>
+                  <li><a href="https://www.youtube.com/watch?v=bFeUPey9Lls" target="_blank">(Video) Dr. Oz discusses Moringa</a></li>
+                  <br/>
+                  <li><a href="https://www.youtube.com/watch?v=W8mPP9fynWg" target="_blank">(Video) Dr. Howard Fisher : Moringa Benefits Explained </a></li>
                 </ul>
               </div>
             </div>
           </div>
         </div>
-        <br />
+        <br/>
       </div>
     </div>
   </div>

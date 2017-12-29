@@ -102,12 +102,37 @@
               <div class="panel-body">
                 <p>Several requests for factory visits are obtained from students, senior citizens, socio-cultural groups as well as tourists.</p>
                 <p style="color: green;"><b><i>Factory visit is free and visitors benefit from purchase of moringa products at factory price.</i></b></p>
-                <p class="center">
-                  <img src="images/events/factory1.png" class="image80 img-rounded" title="Factory Visits 1">
-                </p>
-                <p class="center">
-                  <img src="images/events/factory2.png" class="image80 img-rounded" title="Factory Visits 2">
-                </p>
+                
+                <div id="myCarousel" class="carousel slide" data-ride="carousel">
+                  <!-- Indicators -->
+                  <ol class="carousel-indicators">
+                    <li data-target="#myCarousel" data-slide-to="0" class="active"></li>
+                    <li data-target="#myCarousel" data-slide-to="1"></li>
+                  </ol>
+
+                  <!-- Wrapper for slides -->
+                  <div class="carousel-inner">
+                    <div class="item active ">
+                      <p class="center"><img style="height:628px" src="images/events/factory1.png" class="img-rounded" title="Factory Visits #1"></p>
+                    </div>
+
+                    <div class="item">
+                      <p class="center"><img style="height:628px" src="images/events/factory2.png" class="img-rounded" title="Factory Visits #2"></p>
+                    </div>
+                  </div>
+
+                  <!-- Left and right controls -->
+                  <a class="left carousel-control" href="#myCarousel" data-slide="prev">
+                    <span class="glyphicon glyphicon-chevron-left"></span>
+                    <span class="sr-only">Previous</span>
+                  </a>
+                  <a class="right carousel-control" href="#myCarousel" data-slide="next">
+                    <span class="glyphicon glyphicon-chevron-right"></span>
+                    <span class="sr-only">Next</span>
+                  </a>
+                </div>
+
+
               </div>
             </div>
           </div>

@@ -112,8 +112,6 @@
 
   </script>
 
-
-
 </head>
 
 <body>
@@ -123,198 +121,126 @@
   <div class="templatemo_lightgrey_about" id="templatemo_about">
     <div class="container">
       <div class="templatemo_content_box">
+        <!-- start main carousel -->
+        <div id="myCarousel" class="carousel slide" data-ride="carousel" data-interval="3000" style="width: 90%">
+          <!-- Indicators -->
+          <ol class="carousel-indicators">
+            <li data-target="#myCarousel" data-slide-to="0" class="active"></li>
+            <li data-target="#myCarousel" data-slide-to="1"></li>
+            <li data-target="#myCarousel" data-slide-to="2"></li>
+            <li data-target="#myCarousel" data-slide-to="3"></li>
+            <li data-target="#myCarousel" data-slide-to="4"></li>
+            <li data-target="#myCarousel" data-slide-to="5"></li>
+            <li data-target="#myCarousel" data-slide-to="6"></li>
+          </ol>
 
-      <div id="myCarousel" class="carousel slide" data-ride="carousel" data-interval="3000" style="width: 90%">
-    <!-- Indicators -->
-    <ol class="carousel-indicators">
-      <li data-target="#myCarousel" data-slide-to="0" class="active"></li>
-      <li data-target="#myCarousel" data-slide-to="1"></li>
-      <li data-target="#myCarousel" data-slide-to="2"></li>
-      <li data-target="#myCarousel" data-slide-to="3"></li>
-      <li data-target="#myCarousel" data-slide-to="4"></li>
-      <li data-target="#myCarousel" data-slide-to="5"></li>
-      <li data-target="#myCarousel" data-slide-to="6"></li>
-    </ol>
-
-    <!-- Wrapper for slides -->
-    <div class="carousel-inner">
-      <div class="item active ">
-        <p class="center"><img src="images/slider/4_.jpg" class="img-rounded" title="Factory Visits #1"></p>
-      </div>
-      <div class="item">
-        <p class="center"><img src="images/slider/1_.jpg" class="img-rounded" title="Factory Visits #2"></p>
-      </div>
-      <div class="item">
-        <p class="center"><img  src="images/slider/7_.jpg" class="img-rounded" title="Factory Visits #2"></p>
-      </div>
-      <div class="item">
-        <p class="center"><img src="images/slider/3_.jpg" class="img-rounded" title="Factory Visits #2"></p>
-      </div>
-      <div class="item">
-        <p class="center"><img src="images/slider/5_.jpg" class="img-rounded" title="Factory Visits #2"></p>
-      </div>
-      <div class="item">
-        <p class="center"><img src="images/slider/2_.jpg" class="img-rounded" title="Factory Visits #2"></p>
-      </div>
-      <div class="item">
-        <p class="center"><img style="height:350px" src="images/slider/6_.jpg" class="img-rounded" title="Factory Visits #2"></p>
-      </div>
-    </div>
-
-    <!-- Left and right controls -->
-    <a class="left carousel-control" href="#myCarousel" data-slide="prev">
-      <span class="glyphicon glyphicon-chevron-left"></span>
-      <span class="sr-only">Previous</span>
-    </a>
-    <a class="right carousel-control" href="#myCarousel" data-slide="next">
-      <span class="glyphicon glyphicon-chevron-right"></span>
-      <span class="sr-only">Next</span>
-    </a>
-  </div>
-
-  </div>
-  </div>
-  </div>
-    
-  <div class="templatemo_lightgrey_about" id="templatemo_about">
-
-    <div class="container">
-
-
-
-      <div class="templatemo_reasonbg">
-
-        <h2>MORINGA "The Miracle Plant"</h2>
-
-        <h3>
-          <span style="font-size: 32px">100</span>% PURE AND NATURAL</h3>
-
-        <h3>MORINGA INFUSION AND POWDER</h3>
-
-        <br>
-
-        <br>
-
-        <p> PRODUCED FROM MORINGA GROWN IN OUR OWN FARM AND NATURAL PLANTATIONS</p>
-        <div class="clear height10"></div>
-
-        <p> FREE FROM FERTILISERS, PESTICIDES AND CHEMICALS</p>
-        <div class="clear height10"></div>
-
-        <p> SUITABLE FOR ALL AGES INCLUDING INFANTS AND THE ELDERLY</p>
-        <div class="clear height10"></div>
-
-        <p> MORINGA LEAVES AS INFUSION, THE MOST CONVENIENT AND EASY TO USE FORM</p>
-        <div class="clear height10"></div>
-
-        <p> DOUBLE ENVELOPE FOR MAXIMUM PROTECTION AND FRESHNESS
-          <div class="clear height10"></div>
-
-          <p> ZERO SUGAR, NO ADDITIVES, GLUTEN FREE, NON-GMO AND CAFFEINE FREE</p>
-
-          <div class="clear height10"></div>
-
-      </div>
-
-
-
-      <div class="clear"></div>
-
-
-
-    </div>
-
-  </div>
-
-
-
-  <!--Our Portfolio Start-->
-
-  <div class="templatemo_blog" id="templatemo_portfolio">
-
-
-
-    <div class="container">
-
-
-
-      <div class="col-xs-6 col-sm-6 col-md-4 templatemo_col12">
-
-        <div class="portfolio-item">
-
-          <div class="portfolio-thumb">
-
-            <img src="images/portfolio/1.jpg" title="Cup of Moringa Tea">
-
-
+        <!-- Wrapper for slides -->
+        <div class="carousel-inner">
+          <div class="item active ">
+            <p class="center"><img src="images/slider/4_.jpg" class="img-rounded" title="Grand Winner of SME Innovation Award 2017"></p>
+            <div class="carousel-content" style="background-color: darkslategrey ;">
+              &nbsp;V Kanhye Health Foods Co. Ltd : Grand Winner of the SME Innovation Award 2017&nbsp;
+            </div>
           </div>
-          <!-- /.portfolio-thumb -->
-
+          <div class="item">
+            <p class="center"><img src="images/slider/1_.jpg" class="img-rounded" title="Pot of Moringa tea"></p>
+            <div class="carousel-content" style="background-color: darkslategrey;">
+              &nbsp;Pot of Moringa tea&nbsp;
+            </div>
+          </div>
+          <div class="item">
+            <p class="center"><img  src="images/slider/7_.jpg" class="img-rounded" title="Grand Winner of SME Innovation Award 2017"></p>
+            <div class="carousel-content" style="background-color: darkslategrey;">
+              &nbsp;V Kanhye Health Foods Co. Ltd : Grand Winner of the SME Innovation Award 2017&nbsp;
+            </div>
+          </div>
+          <div class="item">
+            <p class="center"><img src="images/slider/3_.jpg" class="img-rounded" title="Cup of Moringa tea"></p>
+            <div class="carousel-content" style="background-color: darkslategrey;">
+              &nbsp;Cup of Moringa tea&nbsp;
+            </div>
+          </div>
+          <div class="item">
+            <p class="center"><img src="images/slider/5_.jpg" class="img-rounded" title="Our products"></p>
+            <div class="carousel-content" style="background-color: darkslategrey;">
+              &nbsp;Our products&nbsp;
+            </div>
+          </div>          
+          <div class="item">
+            <p class="center"><img src="images/slider/2_.jpg" class="img-rounded" title="Our products"></p>
+            <div class="carousel-content" style="background-color: darkslategrey;">
+              &nbsp;Our products&nbsp;
+            </div>
+          </div>
+          <div class="item">
+            <p class="center"><img style="height:350px" src="images/slider/6_.jpg" class="img-rounded" title="Grand Winner of SME Innovation Award 2017"></p>
+            <div class="carousel-content" style="background-color: darkslategrey;">
+              &nbsp;V Kanhye Health Foods Co. Ltd : Grand Winner of the SME Innovation Award 2017&nbsp;
+            </div>
+          </div>
         </div>
 
+        <!-- Left and right controls -->
+        <a class="left carousel-control" href="#myCarousel" data-slide="prev">
+          <span class="glyphicon glyphicon-chevron-left"></span>
+          <span class="sr-only">Previous</span>
+        </a>
+        <a class="right carousel-control" href="#myCarousel" data-slide="next">
+          <span class="glyphicon glyphicon-chevron-right"></span>
+          <span class="sr-only">Next</span>
+        </a>
       </div>
+      <!-- end main carousel -->
+      <br/>
+      <!-- start middle -->
+      <div class="templatemo_reasonbg img-rounded">
+        <div class="clear height10"></div>
+        <h3>Moringa "The Miracle Plant"</h3>
+        <h3><span style="font-size: 32px">100</span>% Pure and Natural ( infusion and powder )</h3>
+        <br/>
+        <p>Produced from moringa grown in our own farm and natural plantations</p>
+        <p>free from fertilisers, pesticides and chemicals</p>
+        <p>suitable for all ages including infants and the elderly</p>
+        <p>moringa leaves as infusion, the most convenient and easy to use form</p>
+        <p>double envelope for maximum protection and freshness</p>
+        <p>zero sugar, no additives, gluten free, non-gmo and caffeine free</p>  
 
-
-
-      <div class="col-xs-6 col-sm-6 col-md-4 templatemo_col12">
-
-        <div class="portfolio-item">
-
-          <div class="portfolio-thumb">
-
-            <img src="images/portfolio/2.jpg" title="Certified ECOCERT">
-
-
+        <div class="clear height10"></div>
+      </div>
+      <!-- end middle -->
+      <br/>
+      <!-- start photos -->
+      <div class="row">
+        <div class="col-xs-6 col-sm-6 col-md-4 templatemo_col12">
+          <div class="portfolio-item">
+            <div class="portfolio-thumb">
+              <img src="images/portfolio/1.jpg" title="Cup of Moringa Tea">
+            </div>
           </div>
-          <!-- /.portfolio-thumb -->
-
         </div>
 
-      </div>
-
-
-
-      <div class="col-xs-6 col-sm-6 col-md-4 templatemo_col12">
-
-        <div class="portfolio-item">
-
-          <div class="portfolio-thumb">
-
-            <img src="images/portfolio/3.jpg" title="Moringa, The Miracle Plant">
-
-
+        <div class="col-xs-6 col-sm-6 col-md-4 templatemo_col12">
+          <div class="portfolio-item">
+            <div class="portfolio-thumb">
+              <img src="images/portfolio/2.jpg" title="Certified ECOCERT">
+            </div>
           </div>
-          <!-- /.portfolio-thumb -->
-
         </div>
 
+        <div class="col-xs-6 col-sm-6 col-md-4 templatemo_col12">
+          <div class="portfolio-item">
+            <div class="portfolio-thumb">
+              <img src="images/portfolio/3.jpg" title="Moringa, The Miracle Plant">
+            </div>
+          </div>
+        </div>
       </div>
-
-
-
-
-
-
-
+      <!-- end photos -->
     </div>
-
   </div>
-
-  <!--Our Portfolio End-->
-
-
-
-
-
-  <div class="clear"></div>
-
-
-
-
+  </div>
 
   <?php include('footer.php'); ?>
-
-
 
   <!-- jQuery (necessary for Bootstrap's JavaScript plugins) -->
 

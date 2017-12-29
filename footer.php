@@ -4,7 +4,7 @@
     <div class="row">
       <div class="left">
         Copyright © 2014 - <?php echo date('Y'); ?>&nbsp;&nbsp;&nbsp;
-        <a href="/">Kanhye Health Foods Co. Ltd</a>&nbsp;&nbsp;&nbsp;
+        <a href=".">Kanhye Health Foods Co. Ltd</a>&nbsp;&nbsp;&nbsp;
         (version 2.04)
       </div>
       <div class="right">

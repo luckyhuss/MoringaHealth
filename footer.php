@@ -5,7 +5,7 @@
       <div class="left">
         Copyright © 2014 - <?php echo date('Y'); ?>&nbsp;&nbsp;&nbsp;
         <a href="/">Kanhye Health Foods Co. Ltd</a>&nbsp;&nbsp;&nbsp;
-        (version 2.01)
+        (version 2.04)
       </div>
       <div class="right">
         <a href="https://www.youtube.com/watch?v=rtWfXE6s4Ks" title="Youtube channel" target="_blank">

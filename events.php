@@ -66,6 +66,7 @@
   <div class="templatemo_lightgrey_about" id="templatemo_about">
     <div class="container">
       <div class="templatemo_content_box">
+      <h4 class="pageTitle">>> News / Events / Outreach</h4>
         <!-- SME Innovation Award 2017 -->
         <div class="panel-group" style="width: 90%">
           <div class="panel panel-default">

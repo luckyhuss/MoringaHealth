@@ -120,19 +120,79 @@
 
   <?php include('header.php'); ?>
 
+  <div class="templatemo_lightgrey_about" id="templatemo_about">
+    <div class="container">
+      <div class="templatemo_content_box">
+
+      <div id="myCarousel" class="carousel slide" data-ride="carousel" data-interval="3000" style="width: 90%">
+    <!-- Indicators -->
+    <ol class="carousel-indicators">
+      <li data-target="#myCarousel" data-slide-to="0" class="active"></li>
+      <li data-target="#myCarousel" data-slide-to="1"></li>
+      <li data-target="#myCarousel" data-slide-to="2"></li>
+      <li data-target="#myCarousel" data-slide-to="3"></li>
+    </ol>
+
+    <!-- Wrapper for slides -->
+    <div class="carousel-inner">
+      <div class="item active ">
+        <p class="center"><img src="images/slider/1_.jpg" class="img-rounded" title="Factory Visits #1"></p>
+      </div>
+
+      <div class="item">
+        <p class="center"><img src="images/slider/2_.jpg" class="img-rounded" title="Factory Visits #2"></p>
+      </div>
+
+      <div class="item">
+        <p class="center"><img src="images/slider/3_.jpg" class="img-rounded" title="Factory Visits #2"></p>
+      </div>
+
+      <div class="item">
+        <p class="center"><img  style="height:350px" src="images/slider/4_.jpg" class="img-rounded" title="Factory Visits #2"></p>
+      </div>
+    </div>
+
+    <!-- Left and right controls -->
+    <a class="left carousel-control" href="#myCarousel" data-slide="prev">
+      <span class="glyphicon glyphicon-chevron-left"></span>
+      <span class="sr-only">Previous</span>
+    </a>
+    <a class="right carousel-control" href="#myCarousel" data-slide="next">
+      <span class="glyphicon glyphicon-chevron-right"></span>
+      <span class="sr-only">Next</span>
+    </a>
+  </div>
+
+  </div>
+  </div>
+  </div>
+  
+
 
   <div id="slider" class="nivoSlider templatemo_slider">
 
     <a href="#">
-      <img src="images/slider/img_1_blank.jpg" alt="slide 1" />
+      <img src="images/slider/1.jpg" alt="slide 1" />
     </a>
 
     <a href="#">
-      <img src="images/slider/img_2_blank.jpg" alt="slide 2" />
+      <img src="images/slider/2.jpg" alt="slide 2" />
     </a>
 
     <a href="#">
-      <img src="images/slider/img_3_blank.jpg" alt="slide 3" />
+      <img src="images/slider/3.jpg" alt="slide 3" />
+    </a>
+
+    <a href="#">
+      <img src="images/slider/4.jpg" alt="slide 3" />
+    </a>
+
+    <a href="#">
+      <img src="images/slider/5.jpg" alt="slide 3" />
+    </a>
+
+    <a href="#">
+      <img src="images/slider/6.jpg" alt="slide 3" />
     </a>
 
   </div>

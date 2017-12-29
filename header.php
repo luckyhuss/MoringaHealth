@@ -7,7 +7,7 @@
         <div class="row">
           <div class="col-xs-2 nopadding">
             <div class="logo">
-                <img src="images/templatemo_logo.jpg" title="Moringa Tea - Made in Moris">
+                <img src="images/menu/logo_left_menu.jpg" title="Moringa Tea - Made in Moris">
             </div>
           </div>
           <div class="col-xs-8 nopadding">
@@ -27,7 +27,7 @@
           </div>
           <div class="col-xs-1 nopadding">
             <div class="logo">
-              <img src="images/logo_right_menu.jpg" title="V. Kanhye Health Foods Co. Ltd (VKHF)">
+              <img src="images/menu/logo_right_menu.jpg" title="V. Kanhye Health Foods Co. Ltd (VKHF)">
             </div>
           </div>
         </div>

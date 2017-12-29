@@ -131,24 +131,33 @@
       <li data-target="#myCarousel" data-slide-to="1"></li>
       <li data-target="#myCarousel" data-slide-to="2"></li>
       <li data-target="#myCarousel" data-slide-to="3"></li>
+      <li data-target="#myCarousel" data-slide-to="4"></li>
+      <li data-target="#myCarousel" data-slide-to="5"></li>
+      <li data-target="#myCarousel" data-slide-to="6"></li>
     </ol>
 
     <!-- Wrapper for slides -->
     <div class="carousel-inner">
       <div class="item active ">
-        <p class="center"><img src="images/slider/1_.jpg" class="img-rounded" title="Factory Visits #1"></p>
+        <p class="center"><img src="images/slider/4_.jpg" class="img-rounded" title="Factory Visits #1"></p>
       </div>
-
       <div class="item">
-        <p class="center"><img src="images/slider/2_.jpg" class="img-rounded" title="Factory Visits #2"></p>
+        <p class="center"><img src="images/slider/1_.jpg" class="img-rounded" title="Factory Visits #2"></p>
       </div>
-
+      <div class="item">
+        <p class="center"><img  src="images/slider/7_.jpg" class="img-rounded" title="Factory Visits #2"></p>
+      </div>
       <div class="item">
         <p class="center"><img src="images/slider/3_.jpg" class="img-rounded" title="Factory Visits #2"></p>
       </div>
-
       <div class="item">
-        <p class="center"><img  style="height:350px" src="images/slider/4_.jpg" class="img-rounded" title="Factory Visits #2"></p>
+        <p class="center"><img src="images/slider/5_.jpg" class="img-rounded" title="Factory Visits #2"></p>
+      </div>
+      <div class="item">
+        <p class="center"><img src="images/slider/2_.jpg" class="img-rounded" title="Factory Visits #2"></p>
+      </div>
+      <div class="item">
+        <p class="center"><img style="height:350px" src="images/slider/6_.jpg" class="img-rounded" title="Factory Visits #2"></p>
       </div>
     </div>
 
@@ -166,46 +175,7 @@
   </div>
   </div>
   </div>
-  
-
-
-  <div id="slider" class="nivoSlider templatemo_slider">
-
-    <a href="#">
-      <img src="images/slider/1.jpg" alt="slide 1" />
-    </a>
-
-    <a href="#">
-      <img src="images/slider/2.jpg" alt="slide 2" />
-    </a>
-
-    <a href="#">
-      <img src="images/slider/3.jpg" alt="slide 3" />
-    </a>
-
-    <a href="#">
-      <img src="images/slider/4.jpg" alt="slide 3" />
-    </a>
-
-    <a href="#">
-      <img src="images/slider/5.jpg" alt="slide 3" />
-    </a>
-
-    <a href="#">
-      <img src="images/slider/6.jpg" alt="slide 3" />
-    </a>
-
-  </div>
-
-
-  <div class="clear"></div>
-
-
-
-
-
-
-
+    
   <div class="templatemo_lightgrey_about" id="templatemo_about">
 
     <div class="container">

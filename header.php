@@ -15,7 +15,7 @@
               <nav class="mainMenu">
                 <ul class="nav">
                   <li><a class="" href=".">Home</a></li>                    
-                  <li><a class="" href="whymoringa">Why Moringa ?</a></li>
+                  <li><a class="" href="why">Why Moringa ?</a></li>
                   <li><a class="" href="media">Media</a></li>
                   <li><a class="" href="events">Events</a></li>
                   <li><a class="" href="links">Links</a></li>

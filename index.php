@@ -202,7 +202,7 @@ ddsmoothmenu.init({
 
                   <div class="portfolio-thumb">
 
-                      <img src="images/portfolio/1.jpg" alt="portfolio 1">
+                      <img src="images/portfolio/1.jpg" title="Cup of Moringa Tea">
 
 
                   </div> <!-- /.portfolio-thumb -->
@@ -219,7 +219,7 @@ ddsmoothmenu.init({
 
                   <div class="portfolio-thumb">
 
-                      <img src="images/portfolio/2.jpg" alt="portfolio 1">
+                      <img src="images/portfolio/2.jpg" title="Certified ECOCERT">
 
 
                   </div> <!-- /.portfolio-thumb -->
@@ -236,7 +236,7 @@ ddsmoothmenu.init({
 
                   <div class="portfolio-thumb">
 
-                      <img src="images/portfolio/3.jpg" alt="portfolio 1">
+                      <img src="images/portfolio/3.jpg" title="Moringa, The Miracle Plant">
 
 
                   </div> <!-- /.portfolio-thumb -->

@@ -74,7 +74,7 @@
     <div class="container">
       <div class="templatemo_content_box">
         <h4 class="pageTitle">>> Contact us</h4>
-          <!--contact form -->
+          <!--start contact form -->
           <div class="row">
             <div class="col-xs-4">
               <form action="" method="post">
@@ -96,19 +96,34 @@
             </div>
 
             <div class="col-xs-1"></div>
-
-            <!-- map -->
+            <!-- end contact form -->
+            <!-- start map -->
             <div class="col-xs-6">
               <div class="templatemo_maps">
                 <div class="fluid-wrapper">
                   <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3748.313902334083!2d57.65303132395334!3d-20.037290487805944!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x217d0064527a5dad%3A0x4b37746b63197b38!2sV+Kanhye+Health+Foods+Co+Ltd!5e0!3m2!1sen!2smu!4v1486546626874"
-                    width="600" height="450" frameborder="0" style="border:0" allowfullscreen></iframe>
+                    width="600" height="400" frameborder="0" style="border:0" allowfullscreen></iframe>
                 </div>
               </div>
             </div>
-            
-          </div>       
-        <!-- end contact -->
+            <!-- end map -->
+          </div>        
+          <!-- start contact details -->
+          <div class="row">
+            <div class="col-xs-6">
+              <div class="templatemo_footer">
+                <span class="left col-xs-1 fa fa-map-marker"></span>
+                <span class="right col-xs-11">Melle Jeanne, Goodlands, Mauritius</span>
+                <div class="clear"></div>
+                <span class="left col-xs-1 fa fa-phone"></span>
+                <span class="right col-xs-11">(+230) 5888 6967 / (+230) 5937 0239</span>
+                <div class="clear"></div>
+                <span class="left col-xs-1 fa fa-envelope"></span>
+                <span class="right col-xs-11"><a href="mailto:sales@moringahealth.mu">sales@moringahealth.mu</a></span>                
+              </div>
+            </div>
+          </div>
+          <!-- end contact details -->
       </div>
     </div>
   </div>

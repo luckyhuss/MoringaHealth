@@ -85,11 +85,11 @@
           </div>
         </div>
         <br />
-        <!-- Clips -->
+        <!-- Videos -->
         <div class="panel-group" style="width: 90%">
           <div class="panel panel-default">
             <div class="panel-heading">
-              <h4 class="panel-title"><a data-toggle="collapse" href="#collapse2" style="font-weight:bold">Clips</a></h4>
+              <h4 class="panel-title"><a data-toggle="collapse" href="#collapse2" style="font-weight:bold">Videos</a></h4>
             </div>
             <div id="collapse2" class="panel-collapse collapse in">
               <div class="panel-body" style="text-align: center">
@@ -118,6 +118,10 @@
                   <li><a href="resources/articles/defi_no1.pdf" target="_blank">Défi Quotidien - N<sup>o</sup> 1</a></li>
                   <br />
                   <li><a href="resources/articles/defi_no2.pdf" target="_blank">Défi Quotidien - N<sup>o</sup> 2</a></li>
+                  <br />
+                  <li><a href="resources/articles/mauricien.pdf" target="_blank">Le Mauricien</a></li>
+                  <br />
+                  <li><a href="resources/articles/weekend.pdf" target="_blank">Le Week-End</a></li>
                   <br />
                   <li><a href="resources/articles/dimanche.pdf" target="_blank">Le Dimanche</a></li>
                   <br />

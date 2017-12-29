@@ -141,7 +141,7 @@ ddsmoothmenu.init({
 
                         <div class="templatemo_about_box">
 
-                            <img src="images/ying.jpg" >
+                            <img src="images/ying.jpg" title="Benefits #1">
 
                         </div>
 
@@ -211,7 +211,7 @@ ddsmoothmenu.init({
 
                           
 
-              <img src="images/benefit.jpg"
+              <img src="images/benefit.jpg" title="Benefits #2">
 
                           </div>
 

@@ -2,11 +2,11 @@
 <html>
 <head>
   <title>News / Events / Outreach - VKanhye Health Foods</title>
-  <?php include('header.php'); ?>
+  <?php include('include/header.php'); ?>
 </head>
 <body>
   
-  <?php include('menu.php'); ?>
+  <?php include('include/menu.php'); ?>
   <div class="templatemo_lightgrey_about" id="templatemo_about">
     <div class="container">
       <div class="templatemo_content_box">
@@ -94,7 +94,7 @@
       </div>
     </div>
   </div>
-  <?php include('footer.php'); ?>
+  <?php include('include/footer.php'); ?>
   
   <script>$.fn.cycle.defaults.autoSelector = '.slideshow';</script>
   <script type="text/javascript">

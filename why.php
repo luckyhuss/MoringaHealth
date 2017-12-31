@@ -2,10 +2,10 @@
 <html>
 <head>
   <title>Why Moringa ? - V Kanhye Health Foods</title>
-  <?php include('header.php'); ?>
+  <?php include('include/header.php'); ?>
 </head>
 <body>
-  <?php include('menu.php'); ?>    
+  <?php include('include/menu.php'); ?>    
   <div class="templatemo_lightgrey_about" id="templatemo_about">
     <div class="container">
       <div class="col-xs-6 col-sm-6 col-md-6 templatemo_col12 templatemo_margintop10">
@@ -39,13 +39,13 @@
         <div class="item project-post">
           <div class="templatemo_about_box1">
             <img src="images/why/benefit2.jpg" title="Benefits #2">
-                        </div>
+          </div>
         </div>  
       </div>
   </div>
   </div>
   <br />
-    <?php include('footer.php'); ?>
+    <?php include('include/footer.php'); ?>
     <script>$.fn.cycle.defaults.autoSelector = '.slideshow';</script>
     <script type="text/javascript">
       $(function(){

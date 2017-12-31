@@ -8,13 +8,13 @@
         (version 2.0.5)
       </div>
       <div class="right">
-        <a href="https://www.youtube.com/watch?v=rtWfXE6s4Ks" alt="" title="Youtube channel" target="_blank">
+        <a href="https://www.youtube.com/watch?v=rtWfXE6s4Ks" title="Youtube channel" target="_blank">
           <div class="fa fa-instagram soc"></div>
         </a>
-        <a href="https://www.facebook.com/VKanhyeHealthFoods" alt="" title="Facebook page" target="_blank">
+        <a href="https://www.facebook.com/VKanhyeHealthFoods" title="Facebook page" target="_blank">
           <div class="fa fa-facebook soc"></div>
         </a>
-        <a href="javascript:void(0);" data-toggle="modal" data-target="#mycontact" alt="" title="More details">
+        <a href="javascript:void(0);" data-toggle="modal" data-target="#mycontact" title="More details">
           <div class="fa fa-phone soc"></div>
         </a>
       </div>

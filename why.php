@@ -119,7 +119,7 @@ ddsmoothmenu.init({
   <body>
 
     
-  <?php include('header.php'); ?>    
+  <?php include('menu.php'); ?>    
 
 <div class="templatemo_lightgrey_about" id="templatemo_about">
 

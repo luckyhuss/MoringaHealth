@@ -13,8 +13,8 @@
   <link rel="stylesheet" href="css/nivo-slider.css">
   <link rel="stylesheet" href="css/slimbox2.css" type="text/css" media="screen" />
   <link href='http://fonts.googleapis.com/css?family=Raleway:400,100,600' rel='stylesheet' type='text/css'>
-  <script type="text/javascript" src="js/jquery.min.js"></script>
-  <script type="text/JavaScript" src="js/slimbox2.js"></script>
+  <script src="js/jquery.min.js"></script>
+  <script src="js/slimbox2.js"></script>
   <!-- HTML5 Shim and Respond.js IE8 support of HTML5 elements and media queries -->
   <!-- WARNING: Respond.js doesn't work if you view the page via file:// -->
   <!--[if lt IE 9]>
@@ -22,8 +22,8 @@
     <script src="https://oss.maxcdn.com/libs/respond.js/1.3.0/respond.min.js"></script>
   <![endif]-->
   <link rel="stylesheet" type="text/css" href="css/ddsmoothmenu.css" />
-  <script type="text/javascript" src="js/jquery.min.js"></script>
-  <script type="text/javascript" src="js/ddsmoothmenu.js"></script>
+  <script src="js/jquery.min.js"></script>
+  <script src="js/ddsmoothmenu.js"></script>
   <!--/***********************************************
   * Smooth Navigational Menu- (c) Dynamic Drive DHTML code library (www.dynamicdrive.com)
   * This notice MUST stay intact for legal use
@@ -36,7 +36,7 @@
   <script src="js/jquery.cycle2.carousel.min.js"></script>
   <script src="js/jquery.nivo.slider.pack.js"></script>
   <script src="js/jquery.min.js"></script>
-  <script type="text/javascript">
+  <script>
     ddsmoothmenu.init({
       mainmenuid: "templatemo_flicker", //menu DIV id
       orientation: 'h', //Horizontal or vertical menu: Set to "h" or "v"

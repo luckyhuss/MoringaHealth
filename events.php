@@ -29,7 +29,7 @@
                 <p>The main objective of the Award was to encourage SMEs to adopt innovative approaches and practices leading to business transformation, 
                   new markets, productivity improvement and increased investment.</p>
                 <p class="center">
-                  <img src="images/events/sme17.png" class="image80 img-circle" title="Grand Winner of SME Innovation Award 2017">
+                  <img src="images/events/sme17.png" class="image80 img-circle" alt="" title="Grand Winner of SME Innovation Award 2017">
                 </p>
               </div>
             </div>
@@ -56,10 +56,10 @@
                   <!-- Wrapper for slides -->
                   <div class="carousel-inner">
                     <div class="item active ">
-                      <p class="center"><img style="height:628px" src="images/events/factory1.png" class="img-rounded" title="Factory Visits #1"></p>
+                      <p class="center"><img style="height:628px" src="images/events/factory1.png" class="img-rounded" alt="" title="Factory Visits #1"></p>
                     </div>
                     <div class="item">
-                      <p class="center"><img style="height:628px" src="images/events/factory2.png" class="img-rounded" title="Factory Visits #2"></p>
+                      <p class="center"><img style="height:628px" src="images/events/factory2.png" class="img-rounded" alt="" title="Factory Visits #2"></p>
                     </div>
                   </div>
                   <!-- Left and right controls -->

@@ -1,5 +1,5 @@
 <script>$.fn.cycle.defaults.autoSelector = '.slideshow';</script>
-  <script type="text/javascript">
+  <script>
     $(function () {
       var default_view = 'grid';
       if ($.cookie('view') !== 'undefined') {
@@ -62,7 +62,7 @@
     });
   </script>
   <script src="js/jquery.singlePageNav.js"></script>
-  <script type="text/javascript">
+  <script>
     $(window).load(function () {
       $('#slider').nivoSlider({
         prevText: '',
@@ -94,7 +94,7 @@
       });
     });
   </script>
-  <script type="text/javascript">
+  <script>
       < !--
       function toggle_visibility(id) {
         var e = document.getElementById(id);
@@ -109,7 +109,7 @@
       }
       //-->
   </script>
-  <script type="text/javascript">
+  <script>
     $(function () {
       $('a[href*=#]:not([href=#])').click(function () {
         if (location.pathname.replace(/^\//, '') == this.pathname.replace(/^\//, '') && location.hostname == this.hostname) {
@@ -125,8 +125,8 @@
       });
     });
   </script>
-  <script src="js/stickUp.min.js" type="text/javascript"></script>
-  <script type="text/javascript">
+  <script src="js/stickUp.min.js"></script>
+  <script>
     //initiating jQuery
     jQuery(function ($) {
       $(document).ready(function () {

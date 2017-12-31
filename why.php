@@ -12,7 +12,7 @@
         <div class="row">
           <div class="item project-post">
             <div class="templatemo_about_box">
-              <img src="images/why/benefit1.jpg" title="Benefits #1">
+              <img src="images/why/benefit1.jpg" alt="" title="Benefits #1">
             </div>
           </div>
         </div>
@@ -38,7 +38,7 @@
       <div class="col-xs-6 col-sm-6 col-md-6 templatemo_col12 templatemo_margintop10">
         <div class="item project-post">
           <div class="templatemo_about_box1">
-            <img src="images/why/benefit2.jpg" title="Benefits #2">
+            <img src="images/why/benefit2.jpg" alt="" title="Benefits #2">
           </div>
         </div>  
       </div>

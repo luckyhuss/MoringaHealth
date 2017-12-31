@@ -1,68 +1,11 @@
 <!DOCTYPE html>
 <html>
-
 <head>
-    <title>V Kanhye Health Foods - About us</title>
-    <meta name="keywords" content="" />
-    <meta name="description" content="" />
-    <!-- 
-    Smoothy Template 
-    http://www.templatemo.com/preview/templatemo_396_smoothy 
-    -->
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <!-- Bootstrap -->
-    <link href="css/bootstrap.min.css" rel="stylesheet">
-    <link href="css/font-awesome.min.css" rel="stylesheet">
-    <link href="css/templatemo_style.css" rel="stylesheet">
-    <link rel="stylesheet" href="css/templatemo_misc.css">
-    <link rel="stylesheet" type="text/css" href="//fonts.googleapis.com/css?family=EB+Garamond" />
-
-    <link href="css/circle.css" rel="stylesheet">
-    <link href="css/jquery.bxslider.css" rel="stylesheet" />
-    <link rel="stylesheet" href="css/nivo-slider.css">
-    <link rel="stylesheet" href="css/slimbox2.css" type="text/css" media="screen" />
-    <link href='http://fonts.googleapis.com/css?family=Raleway:400,100,600' rel='stylesheet' type='text/css'>
-    <script type="text/javascript" src="js/jquery.min.js"></script>
-    <script type="text/JavaScript" src="js/slimbox2.js"></script>
-
-    <!-- HTML5 Shim and Respond.js IE8 support of HTML5 elements and media queries -->
-    <!-- WARNING: Respond.js doesn't work if you view the page via file:// -->
-    <!--[if lt IE 9]>
-      <script src="https://oss.maxcdn.com/libs/html5shiv/3.7.0/html5shiv.js"></script>
-      <script src="https://oss.maxcdn.com/libs/respond.js/1.3.0/respond.min.js"></script>
-    <![endif]-->
-    <link rel="stylesheet" type="text/css" href="css/ddsmoothmenu.css" />
-    <script type="text/javascript" src="js/jquery.min.js"></script>
-    <script type="text/javascript" src="js/ddsmoothmenu.js"></script>
-
-    <!--/***********************************************
-* Smooth Navigational Menu- (c) Dynamic Drive DHTML code library (www.dynamicdrive.com)
-* This notice MUST stay intact for legal use
-* Visit Dynamic Drive at http://www.dynamicdrive.com/ for full source code
-***********************************************/
-
--->
-
-
-    <script type="text/javascript">
-
-        ddsmoothmenu.init({
-            mainmenuid: "templatemo_flicker", //menu DIV id
-            orientation: 'h', //Horizontal or vertical menu: Set to "h" or "v"
-            classname: 'ddsmoothmenu', //class added to menu's outer DIV
-            //customtheme: ["#1c5a80", "#18374a"],
-            contentsource: "markup" //"markup" or ["container_id", "path_to_menu_file"]
-        })
-
-    </script>
-
+    <title>About us - V Kanhye Health Foods</title>
+    <?php include('header.php'); ?>
 </head>
-
 <body>
-
     <?php include('menu.php'); ?>
-
     <div class="templatemo_lightgrey_about" id="templatemo_about">
         <div class="container">
             <div class="templatemo_content_box">
@@ -109,16 +52,7 @@
             </div>
         </div>
     </div>
-
     <?php include('footer.php'); ?>
-
-    <!-- jQuery (necessary for Bootstrap's JavaScript plugins) -->
-    <!-- <script src="https://code.jquery.com/jquery.js"></script> -->
-    <script src="js/jquery-1.10.2.min.js"></script>
-    <script src="js/bootstrap.min.js"></script>
-    <script src="js/jquery.cycle2.min.js"></script>
-    <script src="js/jquery.cycle2.carousel.min.js"></script>
-    <script src="js/jquery.nivo.slider.pack.js"></script>
     <script>$.fn.cycle.defaults.autoSelector = '.slideshow';</script>
     <script type="text/javascript">
         $(function () {
@@ -152,7 +86,6 @@
                 $('.prod-cnt').addClass('dbox-list');
                 $('.prod-cnt').stop().animate({ opacity: 1 });
             }
-
             if ($.cookie('view') == 'grid') {
                 $('.list').removeClass('list-active');
                 $('.grid').addClass('grid-active');
@@ -161,35 +94,29 @@
                 $('.prod-cnt').addClass('dbox');
                 $('.prod-cnt').stop().animate({ opacity: 1 });
             }
-
             $('#list').click(function () {
                 $.cookie('view', 'list');
                 get_list()
             });
-
             $('#grid').click(function () {
                 $.cookie('view', 'grid');
                 get_grid();
             });
-
             /* filter */
             $('.menuSwitch ul li').click(function () {
                 var CategoryID = $(this).attr('category');
                 $('.menuSwitch ul li').removeClass('cat-active');
                 $(this).addClass('cat-active');
-
                 $('.prod-cnt').each(function () {
                     if (($(this).hasClass(CategoryID)) == false) {
                         $(this).css({ 'display': 'none' });
                     };
                 });
                 $('.' + CategoryID).fadeIn();
-
             });
         });
     </script>
     <script src="js/jquery.singlePageNav.js"></script>
-
     <script type="text/javascript">
         $(window).load(function () {
             $('#slider').nivoSlider({
@@ -201,10 +128,8 @@
     </script>
     <script>
         $(document).ready(function () {
-
             // hide #back-top first
             $("#back-top").hide();
-
             // fade in #back-top
             $(function () {
                 $(window).scroll(function () {
@@ -214,7 +139,6 @@
                         $('#back-top').fadeOut();
                     }
                 });
-
                 // scroll body to 0px on click
                 $('#back-top a').click(function () {
                     $('body,html').animate({
@@ -223,7 +147,6 @@
                     return false;
                 });
             });
-
         });
     </script>
     <script type="text/javascript">
@@ -241,8 +164,6 @@
             }
       //-->
     </script>
-    <script type="text/javascript" src="js/lib/jquery.mousewheel-3.0.6.pack.js"></script>
-
     <script type="text/javascript">
         $(function () {
             $('a[href*=#]:not([href=#])').click(function () {
@@ -275,7 +196,6 @@
             $(this).addClass("active");
         });
     </script>
-
     <script> < !--scroll to specific id when click on menu-- >
       	 // Cache selectors
 var lastId,
@@ -288,7 +208,6 @@ var lastId,
                 var item = $($(this).attr("href"));
                 if (item.length) { return item; }
             });
-
         // Bind click handler to menu items
         // so we can get a fancy scroll animation
         menuItems.click(function (e) {
@@ -299,12 +218,10 @@ var lastId,
             }, 300);
             e.preventDefault();
         });
-
         // Bind to scroll
         $(window).scroll(function () {
             // Get container scroll position
             var fromTop = $(this).scrollTop() + topMenuHeight;
-
             // Get id of current scroll item
             var cur = scrollItems.map(function () {
                 if ($(this).offset().top < fromTop)
@@ -313,7 +230,6 @@ var lastId,
             // Get the id of the current element
             cur = cur[cur.length - 1];
             var id = cur && cur.length ? cur[0].id : "";
-
             if (lastId !== id) {
                 lastId = id;
                 // Set/remove active class
@@ -329,5 +245,4 @@ var lastId,
     http://www.templatemo.com
 -->
 </body>
-
 </html>

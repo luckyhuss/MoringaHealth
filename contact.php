@@ -67,8 +67,8 @@
   <?php 
     // code to send mail
     if(isset($_POST['submit'])){
-      //$to = "sales@moringahealth.mu"; // this is your Email address
-      $to = "luckyhuss@msn.com"; // this is your Email address
+      $to = "sales@moringahealth.mu"; // this is your Email address
+      //$to = "luckyhuss@msn.com"; // this is my Email address
       $from = $_POST['email']; // this is the sender's Email address
       $first_name = $_POST['first_name'];
       $last_name = $_POST['last_name'];

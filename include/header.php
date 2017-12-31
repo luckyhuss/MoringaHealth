@@ -1,4 +1,4 @@
-<!-- developped by Anwar Buchoo (luckhuss@msn.com) -->
+<!-- developped by Anwar Buchoo (http://ideaof.me / luckhuss@msn.com) -->
   <meta name="keywords" content="v kanhye health foods moringa miracle plant" />
   <meta name="description" content="" />
   <!-- start includes -->

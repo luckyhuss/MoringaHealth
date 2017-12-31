@@ -23,37 +23,37 @@
         <!-- Wrapper for slides -->
         <div class="carousel-inner">
           <div class="item active ">
-            <p class="center"><img src="images/slider/4_.jpg" class="img-rounded" alt="" title="Grand Winner of SME Innovation Award 2017"></p>
+            <p class="center"><img src="images/slider/4.jpg" class="img-rounded" alt="" title="Grand Winner of SME Innovation Award 2017"></p>
             <div class="carousel-content" style="background-color: darkslategrey ;">
               &nbsp;V Kanhye Health Foods Co. Ltd : Grand Winner of the SME Innovation Award 2017&nbsp;
             </div>
           </div>
           <div class="item">
-            <p class="center"><img src="images/slider/1_.jpg" class="img-rounded" alt="" title="Pot of Moringa tea"></p>
+            <p class="center"><img src="images/slider/1.jpg" class="img-rounded" alt="" title="Pot of Moringa tea"></p>
             <div class="carousel-content" style="background-color: darkslategrey;">
               &nbsp;Pot of Moringa tea&nbsp;
             </div>
           </div>
           <div class="item">
-            <p class="center"><img  src="images/slider/7_.jpg" class="img-rounded" alt="" title="Grand Winner of SME Innovation Award 2017"></p>
+            <p class="center"><img  src="images/slider/7.jpg" class="img-rounded" alt="" title="Grand Winner of SME Innovation Award 2017"></p>
             <div class="carousel-content" style="background-color: darkslategrey;">
               &nbsp;V Kanhye Health Foods Co. Ltd : Grand Winner of the SME Innovation Award 2017&nbsp;
             </div>
           </div>
           <div class="item">
-            <p class="center"><img src="images/slider/3_.jpg" class="img-rounded" alt="" title="Cup of Moringa tea"></p>
+            <p class="center"><img src="images/slider/3.jpg" class="img-rounded" alt="" title="Cup of Moringa tea"></p>
             <div class="carousel-content" style="background-color: darkslategrey;">
               &nbsp;Cup of Moringa tea&nbsp;
             </div>
           </div>
           <div class="item">
-            <p class="center"><img src="images/slider/5_.jpg" class="img-rounded" alt="" title="Our products"></p>
+            <p class="center"><img src="images/slider/5.jpg" class="img-rounded" alt="" title="Our products"></p>
             <div class="carousel-content" style="background-color: darkslategrey;">
               &nbsp;Our products&nbsp;
             </div>
           </div>
           <div class="item">
-            <p class="center"><img style="height:350px" src="images/slider/6_.jpg" class="img-rounded" alt="" title="V Kanhye with Hon. S. Bholah"></p>
+            <p class="center"><img style="height:350px" src="images/slider/6.jpg" class="img-rounded" alt="" title="V Kanhye with Hon. S. Bholah"></p>
             <div class="carousel-content" style="background-color: darkslategrey;">
               &nbsp;V Kanhye with Hon. S. Bholah, Minister of Business, Enterprise and Cooperatives&nbsp;
             </div>

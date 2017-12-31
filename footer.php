@@ -32,11 +32,11 @@
         <h4 class="modal-title" style="text-align: center;"><b>Contact information</b></h4>
       </div>
       <div class="modal-body">
-        <p>Please call on : (+230) 5888 6967 or (+230) 5937 0239</p>        
+        <p>Please call us on : (+230) 5888 6967 or (+230) 5937 0239</p>        
         <br />
-        <h4><b>Brief</b> </h4>
-        <p style="font-size: 1em;">VKHF is the pioneer of Moringa Infusion in Mauritius and is one of the few vertically integrated organisations of the world, that grow their own Moringa plants and also manufacture products from them.</p>
-        <p style="font-size: 1em;">VKHF plantations are 100% Bio and they do not use any Fertilisers, Pesticides or other chemicals. They also employ a specialised manufacturing process to retain all the nutrients of the leaves intact.</p>
+        <h4 class="pageTitle"><b>>> Brief</b> </h4>
+        <p style="font-size: 1em;">VKHF is the pioneer of <b><i><u>Moringa Infusion</u></i></b> in Mauritius and is one of the few vertically integrated organisations of the world, that grow their own Moringa plants and also manufacture products from them.</p>
+        <p style="font-size: 1em;">VKHF plantations are <b style="color: green;">100% Bio</b> and they <b style="color: red;">do not use any</b> Fertilisers, Pesticides or other chemicals. They also employ a specialised manufacturing process to retain all the nutrients of the leaves intact.</p>
       </div>
       <div class="modal-footer">
         <button type="button" class="btn btn-default" data-dismiss="modal">Close</button>

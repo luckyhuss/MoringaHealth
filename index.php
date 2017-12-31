@@ -139,7 +139,6 @@
             <li data-target="#myCarousel" data-slide-to="3"></li>
             <li data-target="#myCarousel" data-slide-to="4"></li>
             <li data-target="#myCarousel" data-slide-to="5"></li>
-            <li data-target="#myCarousel" data-slide-to="6"></li>
           </ol>
 
         <!-- Wrapper for slides -->
@@ -173,17 +172,11 @@
             <div class="carousel-content" style="background-color: darkslategrey;">
               &nbsp;Our products&nbsp;
             </div>
-          </div>          
-          <div class="item">
-            <p class="center"><img src="images/slider/2_.jpg" class="img-rounded" title="Our products"></p>
-            <div class="carousel-content" style="background-color: darkslategrey;">
-              &nbsp;Our products&nbsp;
-            </div>
           </div>
           <div class="item">
-            <p class="center"><img style="height:350px" src="images/slider/6_.jpg" class="img-rounded" title="Grand Winner of SME Innovation Award 2017"></p>
+            <p class="center"><img style="height:350px" src="images/slider/6_.jpg" class="img-rounded" title="V Kanhye with Hon. S. Bholah"></p>
             <div class="carousel-content" style="background-color: darkslategrey;">
-              &nbsp;V Kanhye Health Foods Co. Ltd : Grand Winner of the SME Innovation Award 2017&nbsp;
+              &nbsp;V Kanhye with Hon. S. Bholah, Minister of Business, Enterprise and Cooperatives&nbsp;
             </div>
           </div>
         </div>
@@ -199,6 +192,12 @@
         </a>
       </div>
       <!-- end main carousel -->
+      <br/>
+      <div class="row">
+        <div class="col-xs-11 center">
+          <b class="mainHighlightedBlock">We plant, We grow, We harvest, We prepare, We bag, all natural and with care, just for you.</b>
+        </div>
+      </div>
       <br/>
       <!-- start middle -->
       <div class="templatemo_reasonbg img-rounded">
@@ -222,7 +221,7 @@
         <div class="col-xs-6 col-sm-6 col-md-4 templatemo_col12">
           <div class="portfolio-item">
             <div class="portfolio-thumb">
-              <img src="images/portfolio/1.jpg" title="Cup of Moringa Tea">
+              <img src="images/portfolio/1.jpg" class="img-rounded" title="Cup of Moringa Tea">
             </div>
           </div>
         </div>
@@ -230,7 +229,7 @@
         <div class="col-xs-6 col-sm-6 col-md-4 templatemo_col12">
           <div class="portfolio-item">
             <div class="portfolio-thumb">
-              <img src="images/portfolio/2.jpg" title="Certified ECOCERT">
+              <img src="images/portfolio/2.jpg" class="img-rounded" title="Certified ECOCERT">
             </div>
           </div>
         </div>
@@ -238,7 +237,7 @@
         <div class="col-xs-6 col-sm-6 col-md-4 templatemo_col12">
           <div class="portfolio-item">
             <div class="portfolio-thumb">
-              <img src="images/portfolio/3.jpg" title="Moringa, The Miracle Plant">
+              <img src="images/portfolio/3.jpg" class="img-rounded" title="Moringa, The Miracle Plant">
             </div>
           </div>
         </div>

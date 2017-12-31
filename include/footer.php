@@ -3,7 +3,10 @@
   <div class="container">
     <div class="row">
       <div class="left">
-        Copyright &copy; 2014 - <?php echo date('Y'); ?>&nbsp;&nbsp;&nbsp;
+        <a href="https://validator.w3.org/check?uri=http://www.moringahealth.mu" target="_blank">
+          <img src="http://www.w3.org/Icons/valid-xhtml10" alt="" title="Valid XHTML 1.0 !" style="height:31px; width:88px" />
+        </a>
+        &nbsp;&nbsp;&nbsp;Copyright &copy; 2014 - <?php echo date('Y'); ?>&nbsp;&nbsp;&nbsp;
         <a href=".">Kanhye Health Foods Co. Ltd</a>&nbsp;&nbsp;&nbsp;
         (version 2.0.5)
       </div>

@@ -6,6 +6,14 @@
 
   <title>Home - V Kanhye Health Foods</title>
 
+  <link rel="apple-touch-icon" sizes="180x180" href="/apple-touch-icon.png">
+  <link rel="icon" type="image/png" sizes="32x32" href="/favicon-32x32.png">
+  <link rel="icon" type="image/png" sizes="16x16" href="/favicon-16x16.png">
+  <link rel="manifest" href="/manifest.json">
+  <link rel="mask-icon" href="/safari-pinned-tab.svg" color="#5bbad5">
+  <meta name="theme-color" content="#ffffff">
+
+
   <meta name="keywords" content="" />
 
   <meta name="description" content="" />
@@ -195,15 +203,15 @@
       <!-- start middle -->
       <div class="templatemo_reasonbg img-rounded">
         <div class="clear height10"></div>
-        <h3>Moringa "The Miracle Plant"</h3>
+        <h3>Moringa &laquo; The Miracle Plant &raquo;</h3>
         <h3><span style="font-size: 32px">100</span>% Pure and Natural ( infusion and powder )</h3>
         <br/>
         <p>Produced from moringa grown in our own farm and natural plantations</p>
-        <p>free from fertilisers, pesticides and chemicals</p>
-        <p>suitable for all ages including infants and the elderly</p>
-        <p>moringa leaves as infusion, the most convenient and easy to use form</p>
-        <p>double envelope for maximum protection and freshness</p>
-        <p>zero sugar, no additives, gluten free, non-gmo and caffeine free</p>  
+        <p>Free from fertilisers, pesticides and chemicals</p>
+        <p>Suitable for all ages including infants and the elderly</p>
+        <p>Moringa leaves as infusion, the most convenient and easy to use form</p>
+        <p>Double envelope for maximum protection and freshness</p>
+        <p>Zero sugar, no additives, gluten free, non-gmo and caffeine free</p>  
 
         <div class="clear height10"></div>
       </div>

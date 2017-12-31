@@ -3,9 +3,9 @@
   <div class="container">
     <div class="row">
       <div class="left">
-        Copyright © 2014 - <?php echo date('Y'); ?>&nbsp;&nbsp;&nbsp;
+        Copyright &copy; 2014 - <?php echo date('Y'); ?>&nbsp;&nbsp;&nbsp;
         <a href=".">Kanhye Health Foods Co. Ltd</a>&nbsp;&nbsp;&nbsp;
-        (version 2.0.4)
+        (version 2.0.5)
       </div>
       <div class="right">
         <a href="https://www.youtube.com/watch?v=rtWfXE6s4Ks" title="Youtube channel" target="_blank">

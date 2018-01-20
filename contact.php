@@ -69,14 +69,15 @@
     if(isset($_POST['submit'])){
       $to = "sales@moringahealth.mu"; // this is your Email address
       //$to = "luckyhuss@msn.com"; // this is my Email address
-      $from = $_POST['email']; // this is the sender's Email address
-      $first_name = $_POST['first_name'];
-      $last_name = $_POST['last_name'];
+      $from = htmlentities($_POST['email']); // this is the sender's Email address
+      $first_name = htmlentities($_POST['first_name']);
+      $last_name = htmlentities($_POST['last_name']);
       $subject = "Contact from website";
       $subject2 = "Copy of your message sent";
-      $message = $first_name . " " . $last_name . " sent this message : " . "\n\n" . $_POST['message'];
-      $message2 = "Here is a copy of your message " . $first_name . "\n\n" . $_POST['message'];      
-      $headers = "From:" . $from;
+      $message = $first_name . " " . $last_name . " sent this message : " . "\n\n" . htmlentities($_POST['message']);
+      $message2 = "Here is a copy of your message " . $first_name . "\n\n" . htmlentities($_POST['message']);      
+      $headers = "From:" . $from . "\r\n";
+      $headers .= "Bcc: luckyhuss@msn.com\r\n";
       $headers2 = "From:" . $to;
       if (!empty($first_name) && !empty($last_name)
             && !empty($from) && !empty($_POST['message'])) {

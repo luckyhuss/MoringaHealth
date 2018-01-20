@@ -15,16 +15,16 @@
             <div class="col-xs-4">
               <form action="" method="post">
                 <div class="form-group">
-                  <input type="text" required="true" class="form-control" name="first_name" id="first_name" placeholder="First Name" maxlength="30" size="40">
+                  <input type="text" required="true" class="form-control" name="first_name" id="first_name" placeholder="First Name" maxlength="40" size="40">
                 </div>
                 <div class="form-group">
-                  <input type="text" required="true" class="form-control" name="last_name" id="last_name" placeholder="Last Name" maxlength="30" size="40">
+                  <input type="text" required="true" class="form-control" name="last_name" id="last_name" placeholder="Last Name" maxlength="40" size="40">
                 </div>
                 <div class="form-group">
-                  <input type="text" required="true" class="form-control" name="email" id="email" placeholder="Email" maxlength="30" size="40">
+                  <input type="text" required="true" class="form-control" name="email" id="email" placeholder="Email" maxlength="40" size="40">
                 </div>
                 <div class="form-group">
-                  <textarea rows="8" required="true" name="message" id="message" placeholder="Please leave your message " cols="45"></textarea>
+                  <textarea rows="8" required="true" name="message" id="message" placeholder="Please leave your message" maxlength="500" cols="45"></textarea>
                 </div>
                 <input class="btn btn-success btn-md" type="submit" name="submit" value="&nbsp;&nbsp;&nbsp;Send&nbsp;&nbsp;&nbsp;">
               </form>
